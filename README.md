@@ -41,9 +41,13 @@ GlowingWidget(
 
 ## 🎥 Preview
 
-•	Showcase: ![Test](screenshots/Screen_Recording_1.gif)
+•	Showcase: 
 
-•	Test on a star: ![Star](screenshots/Screen_Recording_3.gif)
+![Test](screenshots/Screen_Recording_1.gif)
+
+•	Test on a star: 
+
+![Star](screenshots/Screen_Recording_3.gif)
 
 ## 🌟 Why Use this Widget ?
 
