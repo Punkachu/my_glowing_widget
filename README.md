@@ -1,16 +1,55 @@
-# my_glowing_widget
+# ✨ GlowingWidget 🔥
 
-A unique Widget to glow any Widget shapes !
+A fun, customizable Flutter widget that adds a **glow effect** to any widget! Perfect for making your UI pop. 💡
 
-## Getting Started
+## 🚀 Features
+✔️ Easy to use  
+✔️ Fully customizable glow color & intensity  
+✔️ Works with any widget
 
-This project is a starting point for a Flutter application.
+## 📦 Installation
+Add to your `pubspec.yaml`:
+```yaml
+dependencies:
+  my_glowing_widget: latest_version
+```
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Usage
+```dart
+import 'package:my_glowing_widget/my_glowing_widget.dart';
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+GlowingWidget(
+  glowColor: Colors.blue,
+  blurRadius: 10.0,
+  child: Text("Glowing Text!"),
+);
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎨 Customization
+```dart
+GlowingWidget(
+  glowColor: Colors.purple,
+  shadowColor: Color(0xFFAABD41),
+  blurRadius: 15.0,
+  spread: 1.5,
+  sizw: Offset(100, 130),
+  onTap: () => Function(),
+  child: Icon(Icons.star, size: 50),
+  shadowDuration: Duration(milliseconds: 300),
+);
+```
+
+## 🎥 Preview
+
+•	Showcase: ![Test](screenshots/Screen_Recording_1.gif)
+
+•	Test on a star: ![Star](screenshots/Screen_Recording_3.gif)
+
+## 🌟 Why Use this Widget ?
+
+_Because everything looks cooler when it glows! 😎_
+
+-------------------
+👾 Made with ❤️ by [Punkachu](https://github.com/Punkachu)
+
+🛠 Contributions welcome! PRs & stars are always appreciated. ⭐
