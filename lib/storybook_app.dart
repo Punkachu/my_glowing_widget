@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glowing_widget/widgets/shape_widgets.dart';
+import 'package:my_glowing_widget/widgets/shape_widgets.dart';
 import 'package:storybook_flutter/storybook_flutter.dart';
 import 'glowing_widget/glowing_widget.dart';
 

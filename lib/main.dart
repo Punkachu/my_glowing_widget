@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:glowing_widget/storybook_app.dart';
+import 'package:my_glowing_widget/storybook_app.dart';
 
 void main() {
   runApp(const MyApp());
