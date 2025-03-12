@@ -1,4 +1,4 @@
-# glowing_widget
+# my_glowing_widget
 
 A unique Widget to glow any Widget shapes !
 
